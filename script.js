@@ -7,4 +7,4 @@ function copyToClipboard(text) {
     alert("IP已複製")
 }
 
-$('#ipbutton').click(function () { copyToClipboard("play.luckycraft.xyz"); });
+$('#ipbutton').click(function () { copyToClipboard("play.littlegreen.xyz"); });
