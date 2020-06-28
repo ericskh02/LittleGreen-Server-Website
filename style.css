@@ -12,14 +12,12 @@ nav img {
 }
 
 #ipbutton {
-    background-color: rgba(123, 212, 144, 0.7);
-    border-radius: 20px;
-    color: black;
+    color: white;
     font-size: 36px;
     margin-top: 10vh;
 }
 #ipbutton:hover {
-    color: white;
+    color: grey;
     transition-delay: 10ms;
 }
 #ipbutton:active {
